@@ -1,7 +1,7 @@
 module.exports = {
 
   answer: function() {
-    return '42';
+    return 42;
   },
 
   question: function() {
