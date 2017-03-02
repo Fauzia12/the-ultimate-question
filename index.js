@@ -7,4 +7,4 @@ module.exports = {
   question: function() {
     return 'Sorry, Earth was destroyed before I was able to calculate the question.';
   }
-};
+};nn
